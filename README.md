@@ -14,3 +14,4 @@
 
 #MSSQL Ayarı
 ![mssql ayarı](https://github.com/user-attachments/assets/67e0ff93-65f4-474a-9d34-21d3ba4948c6)
+.
