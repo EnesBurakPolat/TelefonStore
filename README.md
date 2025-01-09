@@ -1,7 +1,7 @@
-Sunucu Adı: DESKTOP-YOUR_PC_NAME\SQLEXPRESS
-Veritabanı Adı: TelefonStore
-Kullanıcı Adı: yetkili, calisan
-Parola: 123
+- **Sunucu Adı:** DESKTOP-YOUR_PC_NAME\SQLEXPRESS  
+- **Veritabanı Adı:** TelefonStore  
+- **Kullanıcı Adı:** yetkili, calisan  
+- **Parola:** 123 
 
 ![photo1](https://github.com/user-attachments/assets/d2c50311-988b-4791-b528-dbce9aeefcc9)
 
